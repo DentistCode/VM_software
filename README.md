@@ -23,43 +23,43 @@
   - [ ] 开源软件的风险性（目前知道0day）
 ### 一些构想
 * edge的一键设置可以尝试用网页的方式访问，比如`edge://settings/privacy`，`edge://flags/#enable-parallel-downloading`
-
+* 可以整一个六边形。通用虚拟机属性是六边形图的均衡一些，专用虚拟机按照其发展方向进行发展
 ---
 
-### 综述
+## 综述
 优先用开源软件
-#### 通用软件
+### 通用软件
 
 - everything
 - Geekuninstaller卸载器
 - Tampermonkey
 
-#### 激活软件
+### 激活软件
 
 - KMS https://github.com/zbezj/HEU_KMS_Activator
 
-#### code相关
+### code相关
 
 - vscode
 - clash
 - miniconda/anaconda
 
-#### 压缩软件
+### 压缩软件
 
 - 7zip（开源）
 - BandiZip
 - WinRAR
 
-#### 下载
+### 下载
 
 - 夸克、idm、迅雷、百度云、阿里云
 - greasyfork的资源嗅探和修改
 
-#### 杀毒
+### 杀毒
 
 - 360杀毒
 
-### Windows常用设置
+## Windows常用设置
 - 最先的下载工作
   - windows系统更新
   - edge自身更新 
@@ -90,6 +90,15 @@
     - ![image](https://github.com/FushengTao/VM_software/assets/86056063/9160e881-b977-405b-9a65-9fdfce2f2b0c)
   - 菜单栏
     - ![image](https://github.com/FushengTao/VM_software/assets/86056063/58596151-9fea-464e-931e-f55d637d97a3)
+## 类型
 
+01下载机
+  配置可以低、多下载软件
+02软件试验田
+  配置高、和真实环境一样
+03专用防毒
+  高隔离性
+04隔离用
+  防止追踪，比如sb的qq扫盘
 
 
