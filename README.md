@@ -90,6 +90,10 @@
     - ![image](https://github.com/FushengTao/VM_software/assets/86056063/9160e881-b977-405b-9a65-9fdfce2f2b0c)
   - 菜单栏
     - ![image](https://github.com/FushengTao/VM_software/assets/86056063/58596151-9fea-464e-931e-f55d637d97a3)
+  - 关闭拓展关闭edge后继续运行
+    - ![image](https://github.com/FushengTao/VM_software/assets/86056063/40ace07e-926d-4272-b10b-0f94c4a8850d)
+  - （考虑关闭）快速启动
+
 ## 类型
 
 01下载机
